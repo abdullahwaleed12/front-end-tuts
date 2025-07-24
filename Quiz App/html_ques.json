@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Why We Use <br> Element",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Italic",
+    "answer_3": "To Add Breakline",
+    "answer_4": "To Create Horizontal Line",
+    "right_answer": "To Add Breakline"
+  },
+  {
+    "title": "What is the purpose of the <a> tag?",
+    "answer_1": "To display images",
+    "answer_2": "To create hyperlinks",
+    "answer_3": "To create tables",
+    "answer_4": "To define a paragraph",
+    "right_answer": "To create hyperlinks"
+  },
+  {
+    "title": "Which tag is used to display the largest heading?",
+    "answer_1": "<h6>",
+    "answer_2": "<heading>",
+    "answer_3": "<h1>",
+    "answer_4": "<head>",
+    "right_answer": "<h1>"
+  },
+  {
+    "title": "Why do we use the <img> tag?",
+    "answer_1": "To add a video",
+    "answer_2": "To create a form",
+    "answer_3": "To add an image",
+    "answer_4": "To create a link",
+    "right_answer": "To add an image"
+  },
+  {
+    "title": "Which element is used to create an unordered list?",
+    "answer_1": "<ol>",
+    "answer_2": "<ul>",
+    "answer_3": "<li>",
+    "answer_4": "<list>",
+    "right_answer": "<ul>"
+  },
+  {
+    "title": "What is the purpose of the <table> tag?",
+    "answer_1": "To create a table",
+    "answer_2": "To create a textbox",
+    "answer_3": "To create a dropdown",
+    "answer_4": "To display bold text",
+    "right_answer": "To create a table"
+  },
+  {
+    "title": "Which tag is used to insert a line horizontally?",
+    "answer_1": "<line>",
+    "answer_2": "<hr>",
+    "answer_3": "<br>",
+    "answer_4": "<li>",
+    "right_answer": "<hr>"
+  },
+  {
+    "title": "What is the correct element to insert a comment in HTML?",
+    "answer_1": "// Comment",
+    "answer_2": "# Comment",
+    "answer_3": "<!-- Comment -->",
+    "answer_4": "/* Comment */",
+    "right_answer": "<!-- Comment -->"
+  },
+  {
+    "title": "Which tag is used to make text bold?",
+    "answer_1": "<i>",
+    "answer_2": "<b>",
+    "answer_3": "<u>",
+    "answer_4": "<strong>",
+    "right_answer": "<b>"
+  }
+]
